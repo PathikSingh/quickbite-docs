@@ -13,3 +13,6 @@
 ## Assignment Contribution Summary
 - PathikSingh created the repository, overview branch, and initial project documentation.
 - hyperbyte-ui reviewed changes, suggested improvements, and collaborated through pull requests.
+
+## Learning Outcome
+This assignment demonstrates how multiple developers collaborate using branches, pull requests, reviews, and merging in GitHub.
