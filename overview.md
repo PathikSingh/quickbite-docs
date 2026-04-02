@@ -13,3 +13,6 @@ QuickBite helps users order food from nearby restaurants quickly and easily.
 - View menus
 - Place orders
 - Track delivery
+
+## Business Goal
+The goal of QuickBite is to make food delivery faster, easier, and more accessible for users.
